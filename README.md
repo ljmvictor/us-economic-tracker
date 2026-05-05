@@ -11,3 +11,5 @@ An automated, end-to-end data pipeline and visualization dashboard tracking the 
 ## Objectives
 1. Provide a daily-updated, interactive view of how inflation, interest rates, and employment affect the S&P 500, Nasdaq, and DJIA.
 2. Demonstrate a fully automated data engineering and analytics workflow.
+
+In progress......
